@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sara Kamal Saraya 👋😁
 
-<!--
-**SaraKamalSaraya/SaraKamalSaraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your Banner Image](https://your-image-link.com/banner.png)
 
-Here are some ideas to get you started:
+I'm a passionate Software Developer based in Egypt. I enjoy building web applications, exploring new technologies, and solving complex problems. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks:** React, Next.js, Node.js, Django
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, VS Code
+
+## ✨ Skills
+
+- **Frontend Development:** UI/UX design, responsive web design, MUI, Tailwind CSS
+- **Backend Development:** RESTful APIs, GraphQL, database schema design, serverless architecture
+
+## 📫 How to reach me
+
+- **Email:** sarakamalsaraya@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/sarasaraya)
+
+---
+
+Thanks for stopping by! Have a great day! 😊
