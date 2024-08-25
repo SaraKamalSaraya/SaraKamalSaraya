@@ -1,6 +1,6 @@
 # Hi there, I'm Sara Kamal Saraya 👋😁
 
-![Your Banner Image](https://your-image-link.com/banner.png)
+<!-- ![Your Banner Image](https://your-image-link.com/banner.png) -->
 
 I'm a passionate Software Developer based in Egypt. I enjoy building web applications, exploring new technologies, and solving complex problems. Welcome to my GitHub profile!
 
@@ -18,8 +18,8 @@ I'm a passionate Software Developer based in Egypt. I enjoy building web applica
 
 ## 📫 How to reach me
 
-- **Email:** sarakamalsaraya@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/sarasaraya)
+- **Email:** [Email](sarakamalsaraya@gmail.com)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/sarasaraya)
 
 ---
 
