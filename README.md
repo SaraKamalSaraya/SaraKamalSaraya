@@ -1,4 +1,4 @@
-# Hi there, I'm Sara Kamal Saraya 👋😁
+# Hi there, I'm Sara 👋😁
 
 <!-- ![Your Banner Image](https://your-image-link.com/banner.png) -->
 
@@ -18,8 +18,8 @@ I'm a passionate Software Developer based in Egypt. I enjoy building web applica
 
 ## 📫 How to reach me
 
-- **Email:** [Email](sarakamalsaraya@gmail.com)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/sarasaraya)
+- **Email:** sarakamalsaraya@gmail.com
+- **LinkedIn:** www.linkedin.com/in/sarasaraya
 
 ---
 
